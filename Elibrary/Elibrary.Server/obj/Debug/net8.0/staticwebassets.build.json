@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "DUgNdGR6a8f4ZQHNPQDbpph0Q5tSSrWDpcCHlNhdVZU=",
+  "Source": "Elibrary.Server",
+  "BasePath": "_content/Elibrary.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\elibrary.client.esproj",
+      "Version": 2,
+      "Source": "elibrary.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

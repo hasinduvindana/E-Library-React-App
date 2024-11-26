@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\hasin\\source\\repos\\Elibrary\\Elibrary.Server\\..\\elibrary.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

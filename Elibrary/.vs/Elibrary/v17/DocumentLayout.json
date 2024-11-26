@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasin\\source\\repos\\Elibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\src\\routes\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\src\\routes\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\src\\routes\\root.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\src\\routes\\root.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\src\\routes\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\src\\routes\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\src\\components\\ui\\input.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\src\\components\\ui\\input.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\src\\lib\\utils.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\src\\lib\\utils.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\public\\vite.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\public\\vite.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\elibrary.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\elibrary.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\src\\routes\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\src\\routes\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\src\\routes\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\src\\routes\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\src\\components\\ui\\toaster.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\src\\components\\ui\\toaster.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\.env.local||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\.env.local||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF5AB47-6E93-4C8D-BE4D-97E96520A665}|Elibrary.Server\\Elibrary.Server.csproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF5AB47-6E93-4C8D-BE4D-97E96520A665}|Elibrary.Server\\Elibrary.Server.csproj|solutionrelative:elibrary.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF5AB47-6E93-4C8D-BE4D-97E96520A665}|Elibrary.Server\\Elibrary.Server.csproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.server\\services\\nullemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF5AB47-6E93-4C8D-BE4D-97E96520A665}|Elibrary.Server\\Elibrary.Server.csproj|solutionrelative:elibrary.server\\services\\nullemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF5AB47-6E93-4C8D-BE4D-97E96520A665}|Elibrary.Server\\Elibrary.Server.csproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.server\\elibrary.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EF5AB47-6E93-4C8D-BE4D-97E96520A665}|Elibrary.Server\\Elibrary.Server.csproj|solutionrelative:elibrary.server\\elibrary.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF5AB47-6E93-4C8D-BE4D-97E96520A665}|Elibrary.Server\\Elibrary.Server.csproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.server\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF5AB47-6E93-4C8D-BE4D-97E96520A665}|Elibrary.Server\\Elibrary.Server.csproj|solutionrelative:elibrary.server\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF5AB47-6E93-4C8D-BE4D-97E96520A665}|Elibrary.Server\\Elibrary.Server.csproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF5AB47-6E93-4C8D-BE4D-97E96520A665}|Elibrary.Server\\Elibrary.Server.csproj|solutionrelative:elibrary.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF5AB47-6E93-4C8D-BE4D-97E96520A665}|Elibrary.Server\\Elibrary.Server.csproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.server\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF5AB47-6E93-4C8D-BE4D-97E96520A665}|Elibrary.Server\\Elibrary.Server.csproj|solutionrelative:elibrary.server\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|c:\\users\\hasin\\source\\repos\\elibrary\\elibrary.client\\src\\routes\\authlayout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2DE31C97-6C08-4426-B56E-E553070E8E03}|elibrary.client\\elibrary.client.esproj|solutionrelative:elibrary.client\\src\\routes\\authlayout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\routes\\styles.css",
+              "RelativeDocumentMoniker": "elibrary.client\\src\\routes\\styles.css",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\routes\\styles.css",
+              "RelativeToolTip": "elibrary.client\\src\\routes\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-26T16:06:44.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.css",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\routes\\Register.css",
+              "RelativeDocumentMoniker": "elibrary.client\\src\\routes\\Register.css",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\routes\\Register.css",
+              "RelativeToolTip": "elibrary.client\\src\\routes\\Register.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-26T15:59:09.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "elibrary.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\App.tsx",
+              "RelativeToolTip": "elibrary.client\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-26T16:05:58.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\index.css",
+              "RelativeDocumentMoniker": "elibrary.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\index.css",
+              "RelativeToolTip": "elibrary.client\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-26T16:05:02.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\App.css",
+              "RelativeDocumentMoniker": "elibrary.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\App.css",
+              "RelativeToolTip": "elibrary.client\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-26T16:04:53.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "utils.ts",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\lib\\utils.ts",
+              "RelativeDocumentMoniker": "elibrary.client\\src\\lib\\utils.ts",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\lib\\utils.ts",
+              "RelativeToolTip": "elibrary.client\\src\\lib\\utils.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-26T16:04:06.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "input.tsx",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\components\\ui\\input.tsx",
+              "RelativeDocumentMoniker": "elibrary.client\\src\\components\\ui\\input.tsx",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\components\\ui\\input.tsx",
+              "RelativeToolTip": "elibrary.client\\src\\components\\ui\\input.tsx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-26T16:03:56.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "vite.svg",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\public\\vite.svg",
+              "RelativeDocumentMoniker": "elibrary.client\\public\\vite.svg",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\public\\vite.svg",
+              "RelativeToolTip": "elibrary.client\\public\\vite.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAP8SURBVDhPrZRdbJNVGMd/p33b9Qtqt9HZbe2woKxsbGDYpk5DQAkTFcQPjJgY44XGEI3GmBBMNNmVNxoWojei8VITgyzGCwgRyRjJZM5JlvERt0C3dVu3rt3bD7r3bc/xYt0o4CX/5Mn5/uc85/zOgfsppZS4u6\u002Bnp\u002BdYc3PzB6VxlFIrcwGQUpLP58lms71Hjhw5PDExEbvT4S719PSMSillsVj83ygUCnJ4eFgODg7K48eP/xyJRDaVr7eWNwC6uroOd3R0VEsFBSOFzF1GZL7DmP0Rc/o3AP6dNNne1oHT6Qzb7fb6qampy4lEInGPob39NdHY2n74aq6i\u002BvpUP2sL3\u002BCc/ZZC7AyITUgVpBC/yMQcNDzSjs/n01wu18bKysrglStXLqTT6fSyoRC4H93nCz33zudrAqFn2iI2\u002B66aY3hnTjM8vpVf9A8ZqzjElta9yLlRMqabC0M3GBoaQtd1q8/ni5w/f/6nVCoV0wAczXu8Dfvf/\u002BTp7fXvvrxlzLVdfkriWo7\u002B7FGuh19kwnBycWyGrHmDV/xNNLZuoB4/hmHg8XgYGRlZzdIC4O96r7Mjsu6Ng00Da9tyH4vF4TxTopvcugPYsuA2C4TW13Jprkhf8iHEmhDV1VUEAgG8Xi9Wq3WVAgtAQ8Bz4IXG0aoW8ysxP2jiavmBLY8d4OC2AK\u002B3VJOZnsNnr0C4nQwmbMznLaX9KChDC0AD2Lwu9dTj3u\u002BdmXEHX5ufMfmHDbPwD1IpFJJ8UaNKs2Cz2xifWyKZNqhd60ApQNxmFECrDWj2t1pO19uiY\u002BKc5QvlbtstwsrC8mxKpgrzloFhmCwVChSUKg0r1F0PQJu8GtqfHP\u002B1YiDzthoN7in\u002BefGadWuNSygpUUohlQIUQirqkLQGPfg99pLZna8IQFN67NXZm3VL54o7MbNKczttls5wtdhW58br0NDzJgM3kkSTOVCKoM\u002BFx6GtJLB8jmXS8pP5zmS24vf\u002BGW1zSEs11ITrxJnpHGeuz6IME82uUfRUkSy6WIgv8KxFYLPc/gJWUl6RpbAonHuPLh2Kzcx/eW10PHFzOq0M9xoIrUdsfJilugbiShCPJwg7CjzfXIPdunLL98p69E38Ox5Mhi/1X\u002B1rCNjMTMps1DPSPRlfJDGf4lZiAVt6kaYHND7auYFKtx2EWEVGCEE0GuXUqVMndF2PWdfXMhCbYVfEPrujLt43Eqhvde1\u002B4slGv63IJq9Ge62bfU1\u002BXtpai8OmLW\u002BjhAuAsFiIRifo7e09oev6vV9Zd3d3n5RSmqZZCkOaxnIYq7G0WpqmKc\u002BePSuDwWAbK2CXSyn118mTJztL9WV0SgiV95Wzp\u002Bv638DCnU73Sf8B3E0j/55GTsEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-26T16:03:27.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "react.svg",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\assets\\react.svg",
+              "RelativeDocumentMoniker": "elibrary.client\\src\\assets\\react.svg",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\assets\\react.svg",
+              "RelativeToolTip": "elibrary.client\\src\\assets\\react.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAP8SURBVDhPrZRdbJNVGMd/p33b9Qtqt9HZbe2woKxsbGDYpk5DQAkTFcQPjJgY44XGEI3GmBBMNNmVNxoWojei8VITgyzGCwgRyRjJZM5JlvERt0C3dVu3rt3bD7r3bc/xYt0o4CX/5Mn5/uc85/zOgfsppZS4u6\u002Bnp\u002BdYc3PzB6VxlFIrcwGQUpLP58lms71Hjhw5PDExEbvT4S719PSMSillsVj83ygUCnJ4eFgODg7K48eP/xyJRDaVr7eWNwC6uroOd3R0VEsFBSOFzF1GZL7DmP0Rc/o3AP6dNNne1oHT6Qzb7fb6qampy4lEInGPob39NdHY2n74aq6i\u002BvpUP2sL3\u002BCc/ZZC7AyITUgVpBC/yMQcNDzSjs/n01wu18bKysrglStXLqTT6fSyoRC4H93nCz33zudrAqFn2iI2\u002B66aY3hnTjM8vpVf9A8ZqzjElta9yLlRMqabC0M3GBoaQtd1q8/ni5w/f/6nVCoV0wAczXu8Dfvf/\u002BTp7fXvvrxlzLVdfkriWo7\u002B7FGuh19kwnBycWyGrHmDV/xNNLZuoB4/hmHg8XgYGRlZzdIC4O96r7Mjsu6Ng00Da9tyH4vF4TxTopvcugPYsuA2C4TW13Jprkhf8iHEmhDV1VUEAgG8Xi9Wq3WVAgtAQ8Bz4IXG0aoW8ysxP2jiavmBLY8d4OC2AK\u002B3VJOZnsNnr0C4nQwmbMznLaX9KChDC0AD2Lwu9dTj3u\u002BdmXEHX5ufMfmHDbPwD1IpFJJ8UaNKs2Cz2xifWyKZNqhd60ApQNxmFECrDWj2t1pO19uiY\u002BKc5QvlbtstwsrC8mxKpgrzloFhmCwVChSUKg0r1F0PQJu8GtqfHP\u002B1YiDzthoN7in\u002BefGadWuNSygpUUohlQIUQirqkLQGPfg99pLZna8IQFN67NXZm3VL54o7MbNKczttls5wtdhW58br0NDzJgM3kkSTOVCKoM\u002BFx6GtJLB8jmXS8pP5zmS24vf\u002BGW1zSEs11ITrxJnpHGeuz6IME82uUfRUkSy6WIgv8KxFYLPc/gJWUl6RpbAonHuPLh2Kzcx/eW10PHFzOq0M9xoIrUdsfJilugbiShCPJwg7CjzfXIPdunLL98p69E38Ox5Mhi/1X\u002B1rCNjMTMps1DPSPRlfJDGf4lZiAVt6kaYHND7auYFKtx2EWEVGCEE0GuXUqVMndF2PWdfXMhCbYVfEPrujLt43Eqhvde1\u002B4slGv63IJq9Ge62bfU1\u002BXtpai8OmLW\u002BjhAuAsFiIRifo7e09oev6vV9Zd3d3n5RSmqZZCkOaxnIYq7G0WpqmKc\u002BePSuDwWAbK2CXSyn118mTJztL9WV0SgiV95Wzp\u002Bv638DCnU73Sf8B3E0j/55GTsEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-26T15:59:56.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\routes\\Login.tsx",
+              "RelativeDocumentMoniker": "elibrary.client\\src\\routes\\Login.tsx",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\routes\\Login.tsx",
+              "RelativeToolTip": "elibrary.client\\src\\routes\\Login.tsx",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-26T13:18:16.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.tsx",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\routes\\Register.tsx",
+              "RelativeDocumentMoniker": "elibrary.client\\src\\routes\\Register.tsx",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\routes\\Register.tsx",
+              "RelativeToolTip": "elibrary.client\\src\\routes\\Register.tsx",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-26T13:16:31.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "root.tsx",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\routes\\root.tsx",
+              "RelativeDocumentMoniker": "elibrary.client\\src\\routes\\root.tsx",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\routes\\root.tsx",
+              "RelativeToolTip": "elibrary.client\\src\\routes\\root.tsx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-26T13:15:22.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "toaster.tsx",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\components\\ui\\toaster.tsx",
+              "RelativeDocumentMoniker": "elibrary.client\\src\\components\\ui\\toaster.tsx",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\components\\ui\\toaster.tsx",
+              "RelativeToolTip": "elibrary.client\\src\\components\\ui\\toaster.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-26T13:03:11.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\main.tsx",
+              "RelativeDocumentMoniker": "elibrary.client\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\main.tsx",
+              "RelativeToolTip": "elibrary.client\\src\\main.tsx",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-26T12:43:23.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "elibrary.client",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\elibrary.client.esproj",
+              "RelativeDocumentMoniker": "elibrary.client\\elibrary.client.esproj",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\elibrary.client.esproj",
+              "RelativeToolTip": "elibrary.client\\elibrary.client.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-26T11:42:29.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\index.html",
+              "RelativeDocumentMoniker": "elibrary.client\\index.html",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\index.html",
+              "RelativeToolTip": "elibrary.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-26T12:31:09.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\vite.config.js",
+              "RelativeDocumentMoniker": "elibrary.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\vite.config.js",
+              "RelativeToolTip": "elibrary.client\\vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-26T11:54:23.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\package.json",
+              "RelativeDocumentMoniker": "elibrary.client\\package.json",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\package.json",
+              "RelativeToolTip": "elibrary.client\\package.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T11:45:52.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": ".env.local",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\.env.local",
+              "RelativeDocumentMoniker": "elibrary.client\\.env.local",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\.env.local",
+              "RelativeToolTip": "elibrary.client\\.env.local",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-26T11:43:06.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NullEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\Elibrary.Server\\Services\\NullEmailSender.cs",
+              "RelativeDocumentMoniker": "Elibrary.Server\\Services\\NullEmailSender.cs",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\Elibrary.Server\\Services\\NullEmailSender.cs",
+              "RelativeToolTip": "Elibrary.Server\\Services\\NullEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:19:57.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthLayout.tsx",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\routes\\AuthLayout.tsx",
+              "RelativeDocumentMoniker": "elibrary.client\\src\\routes\\AuthLayout.tsx",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\elibrary.client\\src\\routes\\AuthLayout.tsx",
+              "RelativeToolTip": "elibrary.client\\src\\routes\\AuthLayout.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-26T10:09:32.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\Elibrary.Server\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Elibrary.Server\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\Elibrary.Server\\Model\\User.cs",
+              "RelativeToolTip": "Elibrary.Server\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:05:55.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\Elibrary.Server\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "Elibrary.Server\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\Elibrary.Server\\Model\\Book.cs",
+              "RelativeToolTip": "Elibrary.Server\\Model\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:05:25.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\Elibrary.Server\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Elibrary.Server\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\Elibrary.Server\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Elibrary.Server\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:04:24.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\Elibrary.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Elibrary.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\Elibrary.Server\\Program.cs",
+              "RelativeToolTip": "Elibrary.Server\\Program.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAswMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:52:55.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Elibrary.Server",
+              "DocumentMoniker": "C:\\Users\\hasin\\source\\repos\\Elibrary\\Elibrary.Server\\Elibrary.Server.csproj",
+              "RelativeDocumentMoniker": "Elibrary.Server\\Elibrary.Server.csproj",
+              "ToolTip": "C:\\Users\\hasin\\source\\repos\\Elibrary\\Elibrary.Server\\Elibrary.Server.csproj",
+              "RelativeToolTip": "Elibrary.Server\\Elibrary.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T09:50:53.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

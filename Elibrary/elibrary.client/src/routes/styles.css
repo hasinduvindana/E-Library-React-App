@@ -1,0 +1,118 @@
+/* styles.css */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #6a0dad, #ff007f);
+    color: white;
+}
+
+header {
+    background: rgba(0, 0, 0, 0.8);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    padding: 2rem;
+}
+.logo-large {
+    height: 250px; /* Increase the size */
+    width: auto;
+    margin: 0 auto; /* Center align */
+    
+}
+
+    header .logo {
+        display: flex;
+        align-items: center;
+    }
+
+        header .logo img {
+            height: 100px;
+            width:100px;
+            
+        }
+
+    header .title {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #ff99cc;
+    }
+
+main {
+    text-align: center;
+    padding: 4rem 1rem;
+}
+
+    main h1 {
+        font-size: 3rem;
+        background: linear-gradient(90deg, #ff99cc, #6a0dad);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 1rem;
+    }
+
+    main p {
+        font-size: 1.2rem;
+        margin-bottom: 2rem;
+        color: rgba(255, 255, 255, 0.9);
+    }
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: white;
+    background-color: #6a0dad;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+}
+
+    button:hover {
+        background-color: #ff007f;
+        transform: scale(1.05);
+    }
+
+.feature-card {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s ease-in-out;
+}
+
+    .feature-card:hover {
+        transform: translateY(-5px);
+    }
+
+    .feature-card h3 {
+        color: #ff99cc;
+        font-size: 1.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .feature-card p {
+        color: rgba(255, 255, 255, 0.9);
+        font-size: 1rem;
+    }
+
+.decorative-shape {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(circle, #6a0dad, #ff007f);
+    border-radius: 50%;
+    opacity: 0.7;
+    pointer-events: none;
+    animation: pulse 6s infinite ease-in-out;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+}
